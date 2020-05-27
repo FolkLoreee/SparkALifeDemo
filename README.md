@@ -2,7 +2,6 @@
 
 ## Download
 Download the folder and run the .exe file.
-Rename the folder "New Unity Project_Data" to "PocketHelpers_Data".
 
 ## Game Play
 Control: Press spacebar to spawn player's units.
@@ -14,3 +13,4 @@ Finish the enemy base's health while protecting your base to win!
 
 ## Exit the Game
 
+Press Alt+F4 to exit the game.
